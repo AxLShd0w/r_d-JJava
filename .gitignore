@@ -1,2 +1,4 @@
 # Project exclude paths
 /out/
+/.idea
+r_d-JJava.iml

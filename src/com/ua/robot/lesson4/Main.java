@@ -32,6 +32,16 @@ public class Main {
         System.out.println(lowercase.indexOf("l"));
         System.out.println(str.lastIndexOf("l"));
 
+        String fullName = "john smith";
+        String correctFullName = "John Smith";
+
+//        System.out.println(Arrays.toString(fullName.split(" "));
+        String ss1 = "Q";
+        String ss2 = "Q";
+
+        System.out.println(ss1.equals(ss2));
+        System.out.println(ss1 == ss2);
+
 
 
 
